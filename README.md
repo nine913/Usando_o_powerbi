@@ -1,2 +1,1 @@
-# Usando_o_powerbi
- 
+Se necessário, abra o arquivo "Código completo.ipynb" para visualização melhor.
